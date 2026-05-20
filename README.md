@@ -19,6 +19,10 @@ This project shows how I approach business problems by quickly converting a job-
 - Business impact explanation
 - Streamlit-based interactive demo
 
+## Demo Screenshot
+
+![Demo Screenshot](screenshots/demo1.png)
+
 ## Tech Stack
 
 - Python
@@ -56,6 +60,14 @@ This type of workflow can help support teams:
 - Route urgent cases faster
 - Recommend relevant knowledge articles
 - Support customer service leaders in identifying automation opportunities
+
+## Future Improvements
+
+- Connect to Salesforce case data
+- Use Agentforce or LLM based prompts for dynamic reasoning
+- Add real knowledge base retrieval
+- Track support KPIs such as resolution time, escalation rate, and case priority accuracy
+- Add stakeholder feedback loop to improve recommendation quality
 
 ## How to Run
 
