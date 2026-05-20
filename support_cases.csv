@@ -1,0 +1,9 @@
+case_id,customer_tier,product_area,customer_message
+C001,Enterprise,Network,"Our data center connection is down and production workloads are impacted. We need urgent support."
+C002,Standard,Billing,"I was charged twice this month and I need help understanding my invoice."
+C003,Enterprise,Portal,"Our team cannot log in to the customer support portal. Password reset is not working."
+C004,Standard,Hardware,"The device is overheating and randomly shutting down during usage."
+C005,Enterprise,Network,"Latency has increased significantly between our sites and users are reporting slow application performance."
+C006,Standard,Account,"I need to update the billing contact and account administrator for our company."
+C007,Enterprise,Security,"We noticed unusual login attempts and need help reviewing access activity."
+C008,Standard,General,"I want to know the status of my existing support ticket."
